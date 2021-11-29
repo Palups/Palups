@@ -16,4 +16,14 @@
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=4AB197)
+
+<details>
+  <summary>More Skills</summary>
+
+  
+</details>
+
 

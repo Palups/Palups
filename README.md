@@ -14,11 +14,11 @@ Want to know more about me? [Check out my profile on LinkedIn!](https://www.link
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Palups">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palups&theme=noctis_minimus" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palups&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)" />
 </a>
 
 <a href="https://github.com/Palups">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Palups&" alt="Palups GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Palups&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)" />
 </a>
 
 ## 💼 Skills

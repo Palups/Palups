@@ -28,7 +28,7 @@ Want to know more about me? [Check out my profile on LinkedIn!](https://www.link
 </a>
 
 <a href="https://github.com/Palups">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Palups&bg_color=F638FF,8233D8,015559&title_color=fff&text_color=fff&hide_border=true&custom_title=Palups' Stats&include_all_commits=true&show_icons=true&hide=contribs,prs&count_private=true)" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Palups&bg_color=F638FF,8233D8,015559&title_color=fff&text_color=fff&hide_border=true&custom_title=Palups' Stats&include_all_commits=true&show_icons=true&hide=prs&count_private=true&hide_rank=true)" />
 </a>
 
 <br>

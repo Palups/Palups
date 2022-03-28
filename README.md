@@ -5,11 +5,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/viniciusgpalu/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-Profile-informational?style=flat&logo=itch.io&logoColor=white&color=0D76A8)](https://palups.itch.io)
 
-Hey there 👋
+<samp>Hey there 👋
 
 I'm Vinícius, a graduated game developer working with Delphi and studying Flutter. I make it my mission to learn how everything is created and how everything works.
 
-Want to know more about me? [Check out my profile on LinkedIn!](https://www.linkedin.com/in/viniciusgpalu)
+Want to know more about me? [Check out my profile on LinkedIn!](https://www.linkedin.com/in/viniciusgpalu)</samp>
 
 <br>
 

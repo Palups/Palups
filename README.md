@@ -25,7 +25,7 @@ C, C++, C#, Python, Flutter; Git, Bitbucket, Trello; Photoshop;
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Palups">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palups&layout=compact&bg_color=101414&title_color=FFEB3B&text_color=FFEB3B&hide_border=true)" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palups&layout=default&bg_color=101414&title_color=FFEB3B&text_color=FFEB3B&hide_border=true)" />
 </a>
 
 <a href="https://github.com/Palups">

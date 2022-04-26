@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=4AB197)
 <!--![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)-->
 
 C, C++, C#, Python, Flutter; Git, Bitbucket, Trello; Photoshop;
